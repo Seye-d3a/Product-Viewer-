@@ -47,7 +47,7 @@ def main():
         choice = input("View another product? (y/n): ")
         print()
 
-    print("Bye!")
+    print("Done!")
 
 if __name__ == "__main__":
     main()
